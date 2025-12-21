@@ -48,7 +48,7 @@ Every active player who pledges allegiance and is a citizen to The Republic Of I
 Rights:
 Citizens have the right to:
 1.Participate in fair elections in game and in the Discord server of Rebuplic Of India.
-2.Freedom of speech within in-game laws and discord laws.
+2.Freedom of speech within in-game laws and discord laws with reasonable restrictions.
 3.Engage in economic activity such as trade, make companies and work for Companies of thier choice.
 
 Duties:
@@ -149,11 +149,11 @@ Powers: Will be responsible for all internal affairs of the country.
 Duties: such as handling new players,directing them to guides and advicing them on thier playstyles,handling the election campaigns fairly and making sure no internal fights arises.
 Chain Of command: Subordinate to the President , Vice President and Advisor.
 
-other official postiions metioned under Article 4.
+Other official postiions metioned under Article 4.
 
 Raw Director- works in Research and Analysis Wing.
 Duties: Handles the indian foreign intelligence agency, responsible for gathering external intelligence and conducting covert operations for national security.
-Chain Of command: Subordinate to the President , Vice President ,Advisor and external Affairs minister.
+Chain Of command: Subordinate to the President only.
 
 Information And Broadcasting Director- Works in  Department Of Information And Broadcasting.
 Duties:Responsible for broadcasting and curating articles for India.
