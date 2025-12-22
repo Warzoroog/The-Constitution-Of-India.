@@ -121,7 +121,7 @@ Chain Of command: No one is above the President
 Vice President-
 Power: Assists , advice and succeeds the President if and when needed.
 Duties: Work for the safegaurd and prosperity of the India. Answerable to the Judiciary if acting against the interest of India.  
-Chain Of command: Only Subordinate to the President.
+Chain Of command: Subordinate to Only the President.
 
 Advisor To Government Of India-
 Power: Assist , advices the President, Vice President.
