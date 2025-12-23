@@ -4,47 +4,66 @@ Abbrevations And Definations
 For the Purpose of this Constituion:
 
 Acting President — A person temporarily fulfilling the duties of the President after removal, resignation, or inability of the incumbent to serve.
+
 Advisor — Advisor to Government of India.
+
 Amendment — A formal change or addition to the Constitution, subject to the amendment procedures defined in this Constitution.
+
 Attorney General — Head of the Judicial Branch and chief legal officer responsible for constitutional interpretation and legal oversight.
+
 Bill — A proposed law introduced in the Legislative Body for consideration and passage.
+
 Congress — The Legislative Body (Members of Parliament elected by citizens) responsible for making laws, authorizing impeachment,treaties, and other constitutional functions.
+
 Court of Law — Judicial functions established under this Constitution to adjudicate constitutional disputes and violations.
+
 Discord Server — The Official Indian Discord Server where constitutional decision processes (debates and votes) are conducted.
+
 Emergency Powers — Extraordinary authorities exercised by government during national crises, as defined in the Constitution.
+
 Evidence — Screenshots from in‑game or the Official Indian Discord Server provided in case of dispute to support constitutional or legal claims.
+
 Executive Order — A directive issued by the President to manage operations of the government and implement policy within constitutional and legal limits.
+
 Ethics Standards — Rules governing expected conduct of officials to prevent abuse of office and corruption.
+
 Impeachment — The constitutional process by which the President may be charged and removed from office for betrayal, incompetence, or other constitutionally defined grounds.
+
 Inactivity — Failure by an official to perform constitutional duties for a specified period (e.g., 7 days) without valid notice.
+
 Incompetence — A pattern of conduct by an official that fails to fulfill their duties in a manner that protects national interests.
+
 Law/Laws — Includes terms and conditions of the War Era game and Discord server rules.
+
 Majority — More than half of the votes cast by a deliberative body, such as Congress, required for passage of most laws or motions.
+
 Ministers — In‑game and Discord Ministers and Directors responsible for executive functions.
+
 National Security — Security of the Republic of India, including defense and strategic interests.
+
 Other Official Position — Discord Directors and other appointed positions referenced in Article 4.
+
 President — Current President of the Republic of India.
+
 Ratification — Formal confirmation of decisions, treaties, or actions required by constitutional procedures.
+
 Supermajority — A voting threshold greater than a simple majority (e.g.,more than 75% in Favour) required for key constitutional decisions.
+
 Treaties — Binding agreements between India and other nations or entities, subject to legislative approval.
+
 Vice‑President — Vice President of the Republic of India, assisting the President and succeeding when needed.
+
 War — Official military conflict requiring presidential and legislative authorization.
 
 
 Preamble
  
 We,
-
 the Citizens of the Republic of India,
-
 in order to establish justice,
-
 ensure peace,
-
 promote prosperity,
-
 and secure the freedom and rights of all our citizens within War Era,
-
 hereby adopt this Constitution.
 
 
@@ -74,7 +93,9 @@ Citizens have the right to:
 Duties:
 Citizens shall:
 1.Abide by The Laws of this Nation.
+
 2.Support the nation’s defense if called upon.
+
 3.Respect the constitution and governance structures of the Republic of India, Whether in game or in Discord Server.
 
 
