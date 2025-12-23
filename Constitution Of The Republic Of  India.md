@@ -372,6 +372,81 @@ Decisions made under this Constitution on Discord are binding and must be enacte
 Failure to implement constitutes non‑compliance.
 
 
+Article 17 — Judiciary Branch
+
+17.1 Judicial Authority
+
+Judicial authority in the Republic shall be exercised by court established under this Constitution.
+
+The Judiciary shall be independent, impartial, and subject only to this Constitution and lawful processes.
+
+The courts must apply laws fairly and without fear, favour, prejudice, or influence from any person or branch of government.
+
+No person or government organ may interfere with the functioning or administration of the courts.
+
+All persons and government organs shall assist and protect the courts to ensure their independence and accessibility.
+
+
+17.2 Structure of the Courts
+
+The Judiciary shall consist of:
+
+The Supreme Court — the Highest court with ultimate authority.
+
+
+17.3 Powers of Judges
+
+Judges shall have authority to:
+
+a. Interpret and apply this Constitution and all laws subject to it.
+
+b. Review any law, executive action, or administrative decision for conformity with constitutional rights and principles.
+
+c. Resolve legal disputes and issue binding judgments and remedies.
+
+d. Enforce compliance with constitutional rights and obligations.
+
+e. Issue writs, orders, or other orders necessary for protection of rights or to secure justice.
+
+f. Punish for contempt to uphold the dignity of the judiciary.
+
+
+17.4 Judicial Independence and Conduct
+
+Judges must remain neutral, fair, and non‑political in all judicial functions.
+
+Judges shall not hold executive or legislative offices or engage in political party activities or endorsements.
+
+Judges shall base decisions solely on constitutional text, statutes, legal principles, and evidence presented.
+
+Judges shall maintain professional integrity and avoid conduct that undermines public confidence in the judiciary.
+
+
+17.5 Appointment, Tenure, and Removal
+
+The Supreme Court shall consist of a Chief Justice.
+
+Judges of the Supreme Court shall be appointed as defined by statute, ensuring fair selection and protection from undue influence.
+
+Judges shall hold office until they resign and shall not be removed except for proved misbehaviour or incapacity through a rigorous process requiring super majority legislative support.
+
+
+17.6 Judicial Remedies and Precedent
+
+Any person whose constitutional rights are infringed may approach a competent court for relief.
+
+Courts may issue orders necessary to protect constitutional rights, including writs.
+
+Decisions of the Supreme Court shall be binding on all citizens,legeslative branch, executive branch within the Republic.
+
+
+17.7 Administration of Justice
+
+Courts shall regulate their own procedures, subject to law, to ensure fair, orderly, and timely administration of justice.
+
+Courts shall make provision for accessible justice without undue delay.
+
+Courts may establish internal rules for case management consistent with constitutional principles.
 
 
 
