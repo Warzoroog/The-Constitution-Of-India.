@@ -34,15 +34,22 @@ War — Official military conflict requiring presidential and legislative author
 Preamble
  
 We,
+
 the Citizens of the Republic of India,
+
 in order to establish justice,
+
 ensure peace,
+
 promote prosperity,
+
 and secure the freedom and rights of all our citizens within War Era,
+
 hereby adopt this Constitution.
 
 
 Article 1 — Sovereignty and Purpose.
+
 Sovereignty:
 The Republic Of India is a Sovereign state,
 with authority derived from its citizens,
