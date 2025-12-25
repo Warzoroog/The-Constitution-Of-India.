@@ -10,7 +10,7 @@ Advisor — Advisor to Government of India.
 
 Amendment — A formal change or addition to the Constitution, subject to the amendment procedures defined in this Constitution.
 
-Attorney General — Head of the Judicial Branch and chief legal officer responsible for constitutional interpretation and legal oversight.
+Attorney General — Head of the Judicial Branch and chief legal officer responsible for constitutional interpretation and legal oversight, also called judge.
 
 Bill — A proposed law introduced in the Legislative Body for consideration and passage.
 
@@ -132,9 +132,7 @@ Responsible for passing laws and legislative functions.
 
 Judicial Branch:
 
-Headed by the Attorney General and
-assisted by appointed members charged with resolving disputes and 
-adjudicating violations of the Constitution and laws.
+Headed by the Attorney General.
 
 
 Article 4 — Elections, Appointment of minsters.
@@ -317,7 +315,7 @@ Congress may call a new election if needed.
 12.4 Resignation:
 
 Written resignation is submitted; Vice‑President becomes Acting President.
-If Vice‑President cannot serve, Congress elects an Acting President by simple majority.
+If Vice‑President cannot serve; Congress elects an Acting President by simple majority.
 
 12.5 Emergency Removal:
 
@@ -335,13 +333,11 @@ Authorize treaties, alliances, war
 
 Article 14 — Attorney General
 
-Role:Head of the Judicial Branch and chief legal officer.
+Role: Head of the Judicial Branch.
 
 Duties:Interpret the Constitution,Advise Congress,Ensure constitutional compliance.
 
-Appointment:
-
-Nominated by President, confirmed by Congress majority, 30‑day term.
+Appointment: Selected by the President, 30‑day term.
 
 Article 15 — Inactivity and Incompetence Standards
 
@@ -394,9 +390,9 @@ The Judiciary shall consist of:
 The Supreme Court — the Highest court with ultimate authority.
 
 
-17.3 Powers of Judges
+17.3 Powers of  Attorney General
 
-Judges shall have authority to:
+ Attorney General shall have authority to:
 
 a. Interpret and apply this Constitution and all laws subject to it.
 
@@ -413,22 +409,22 @@ f. Punish for contempt to uphold the dignity of the judiciary.
 
 17.4 Judicial Independence and Conduct
 
-Judges must remain neutral, fair, and non‑political in all judicial functions.
+Judge must remain neutral, fair, and non‑political in all judicial functions.
 
-Judges shall not hold executive or legislative offices or engage in political party activities or endorsements.
+Judge shall not hold executive or legislative offices or engage in political party activities or endorsements.
 
-Judges shall base decisions solely on constitutional text, statutes, legal principles, and evidence presented.
+Judge shall base decisions solely on constitutional text, statutes, legal principles, and evidence presented.
 
-Judges shall maintain professional integrity and avoid conduct that undermines public confidence in the judiciary.
+Judge shall maintain professional integrity and avoid conduct that undermines public confidence in the judiciary.
 
 
 17.5 Appointment, Tenure, and Removal
 
-The Supreme Court shall consist of a Chief Justice.
+The Supreme Court shall consist of a  Judge.
 
-Judges of the Supreme Court shall be appointed as defined by statute, ensuring fair selection and protection from undue influence.
+ Judge of the Supreme Court shall be appointed as defined by statute, ensuring fair selection and protection from undue influence.
 
-Judges shall hold office until they resign and shall not be removed except for proved misbehaviour or incapacity through a rigorous process requiring super majority legislative support.
+ Judge shall hold office until they resign and shall not be removed except for proved misbehaviour or incapacity through a rigorous process requiring super majority legislative support.
 
 
 17.6 Judicial Remedies and Precedent
