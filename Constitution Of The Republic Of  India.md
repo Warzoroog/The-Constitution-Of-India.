@@ -254,7 +254,57 @@ Duties: will be responsible for increasing player count, creating posts , gettin
 broadcasting director to make articles about in game indian history or anythign that promotes indianimage globlelly throught articles.
 
 Chain Of command: Subordinate to the President , Vice President ,Advisor and Home Misnister.
+
+
+Article 7A – Additional Executive & Judicial Offices
  
+Chief Information Officer (CIO) - Works in Ministry of Home Affairs
+
+Maintains bots, spreadsheets, coded tools; advises on cyber-security regarding discord.
+
+Chain of command: Subordinate to the President ,Vice President , Advisor.
+
+Chief of Defence Staff (CDS) - Works in Ministry of Defence
+
+Principal military adviser; operational command of all units listed in Article 8.
+
+Chain of command:Subordinate to the President , Vice President , Advisor , Defence Minister.
+
+Military Unit Commander- Works in Ministery of Defence
+
+Tactical commander of an in-game Military Unit; reports to CDS for ops, issues Attack , Defense , Revolt , Resist orders when instructed.
+
+Chain of command: Subordinate to the President, Vice President , Advisor , Defence Minister , CDS.
+
+Census Commission Director - Works in ministry Of Home Affairs
+
+Runs activity census, keeps track of voter lists.
+
+Chain of command: Subordinate to the President , Vice President , Advisor , Home Minister..
+
+Economic Advisors - works in Ministry Of finance
+
+Provide market analysis, budget drafts, investment advice to the Finance Minister.
+
+Chain of command: Subordinate to the President , Vice President , Advisor,Finance Minister.
+
+Journalists - Works in minisrty Of Home Affairs
+
+Produce articles, war reports, interviews; appointed by & report to Information & Broadcasting Director.
+
+Chain of command : Subordinate to the President , Vice President , Advisor Information & Broadcasting Director.
+
+Lawyer- works in the Judicial branch.
+
+Licensed to represent citizens or Government before the Supreme Court; qualifications and roll maintained by the Attorney General.
+
+Chain of command: Professional oversight by Attorney General.
+
+Prosecutor - Works under Attorney General
+
+Appointed by the Attorney General; to represent the intrests of the State.
+
+Chain of Command: Professional oversight by Attorney General.
 
 Article 8 — Military and Defense
 
@@ -264,9 +314,11 @@ The military units is Under the control of the Minister of Defense.
 
 Which Shall Include:
 1st Para SF,
+2nd Para SF,
 10th Para SF,
 Marine Commando Force,
 Garud Cammando Force.
+
 
 War:
 Declaration of war must be approved by the legislative body.
@@ -422,7 +474,7 @@ Judge shall maintain professional integrity and avoid conduct that undermines pu
 
 The Supreme Court shall consist of a  Judge.
 
- Judge of the Supreme Court shall be appointed as defined by statute, ensuring fair selection and protection from undue influence.
+Judge of the Supreme Court shall be appointed as defined by statute, ensuring fair selection and protection from undue influence.
 
  Judge shall hold office until they resign and shall not be removed except for proved misbehaviour or incapacity through a rigorous process requiring super majority legislative support.
 
