@@ -42,7 +42,7 @@ Ministers — In‑game and Discord Ministers and Directors responsible for exec
 
 National Security — Security of the Republic of India, including defense and strategic interests.
 
-Other Official Position — Discord Directors and other appointed positions referenced in Article 4.
+Other Official Position — Discord Directors and other appointed positions referenced in Article 4 and Article 7A.
 
 President — Current President of the Republic of India.
 
